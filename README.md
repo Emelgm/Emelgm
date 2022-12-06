@@ -1,6 +1,8 @@
 > Hi, I'm Emel 👋.
 
-- I'm currently learning Data Analysis and Backend Development with Python.
+- 🧑🏻‍💻 I'm currently learning:
+  - 📊 Data Analysis.
+  - 🐍 Backend Development with Python.
 - 📫 How to reach me: 
   - https://www.linkedin.com/in/emel-gulloso-m-166840224/
 
