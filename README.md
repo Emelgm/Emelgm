@@ -1,7 +1,7 @@
 > Hi, I'm Emel 👋.
 > I'm learning Data Analysis and Backend Development with Python.
-> 📫 How to reach me: 
-> - https://www.linkedin.com/in/emel-gulloso-m-166840224/
+📫 How to reach me: 
+- https://www.linkedin.com/in/emel-gulloso-m-166840224/
 
 <!--
 **Emelgm/Emelgm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
