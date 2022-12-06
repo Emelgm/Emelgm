@@ -1,4 +1,4 @@
-> Hi, I'm Emel 👋.
+> Hi, I'm Emel 👋. /
 > I'm learning Data Analysis and Backend Development with Python.
 
 📫 How to reach me: 
